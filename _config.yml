@@ -9,7 +9,7 @@ words_per_minute: 200
 baseurl: /
 
 # Website info
-title: Sunhyun Park
+title: hyun's Blog
 description: Web developer
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
@@ -72,10 +72,10 @@ lsi: False
 username: Sunhyun Park
 repo: sunhyun.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+relative_source: ../
+destination: ../
+production_url:  https://sunhyun.github.io/
+source_url:  https://github.com/sunhyun.github.io/
 
 exclude:
   - assets/css
